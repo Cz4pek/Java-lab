@@ -1,0 +1,25 @@
+
+Z	java:S106l"9Replace this use of System.out or System.err by a logger.(¤øß‘şÿÿÿÿ8Û‹Ã©.
+U	java:S106a"9Replace this use of System.out or System.err by a logger.(»Ãëº8—«ÄÁ©.
+Z	java:S106o"9Replace this use of System.out or System.err by a logger.(øü‰èùÿÿÿÿ8Û‹Ã©.
+]	java:S125["<This block of commented-out lines of code should be removed.( ­áºùÿÿÿÿ8åÃ©.
+W
+java:S1854i":Remove this useless assignment to local variable "wiersz".(Ê¸±Ä8Û‹Ã©.
+U	java:S106j"9Replace this use of System.out or System.err by a logger.(ÅŠõ™8Û‹Ã©.
+E
+java:S1948"#Make "g" transient or serializable.(öëéÂúÿÿÿÿ8³õŠÃ©.
+o
+java:S1104"RMake serwer a static final constant or non-public and provide accessors if needed.(÷ßšÄ8ó¡ÒÁ©.
+>
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+‚
+java:S1130"eRemove the declaration of thrown exception 'java.awt.HeadlessException' which is a runtime exception.(ÅÀ¤8—«ÄÁ©.
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(–ğîİ8—«ÄÁ©.
+X	java:S125+"<This block of commented-out lines of code should be removed.(…†­¿8—«ÄÁ©.
+T	java:S106`"9Replace this use of System.out or System.err by a logger.(œÁ”=8—«ÄÁ©.
+E
+java:S1948"(Make "serwer" transient or serializable.(÷ßšÄ8ó¡ÒÁ©.
+o
+java:S1104"MMake g a static final constant or non-public and provide accessors if needed.(öëéÂúÿÿÿÿ8³õŠÃ©.
+E
+java:S1148S"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8îÀ±Å©.

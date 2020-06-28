@@ -1,0 +1,11 @@
+
+Z
+java:S1854V"8Remove this useless assignment to local variable "main".(²Äˆİÿÿÿÿÿ8Òüòà£.
+E
+java:S1148:"#Use a logger to log this exception.(Şëşÿÿÿÿ8‡¸›á£.
+E
+java:S1148K"#Use a logger to log this exception.(Şëşÿÿÿÿ8õÑºá£.
+D
+java:S1659/""Declare "text" on a separate line.(‚ûãäûÿÿÿÿ8Ñô—á£.
+K
+java:S1481V")Remove this unused "main" local variable.(²Äˆİÿÿÿÿÿ8Òüòà£.

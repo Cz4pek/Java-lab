@@ -1,0 +1,14 @@
+
+F
+java:S1481P")Remove this unused "okno" local variable.(˛Ñ∏„8«õ£Ä¶.
+@
+java:S1148E"#Use a logger to log this exception.(‰µ£¨8Ú€…Å¶.
+X	java:S125"<This block of commented-out lines of code should be removed.(Ø⁄Ø˛8πˇıÄ¶.
+@
+java:S1148;"#Use a logger to log this exception.(‰µ£¨8ÕÊ¡Å¶.
+U
+java:S1854P"8Remove this useless assignment to local variable "okno".(˛Ñ∏„8«õ£Ä¶.
+@
+java:S11486"#Use a logger to log this exception.(—Å∂≤8¨ë¿Å¶.
+Ç
+java:S1130"eRemove the declaration of thrown exception 'java.awt.HeadlessException' which is a runtime exception.(≈¿§û8πﬂõÄ¶.

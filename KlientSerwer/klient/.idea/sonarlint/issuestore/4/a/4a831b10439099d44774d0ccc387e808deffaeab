@@ -1,0 +1,25 @@
+
+T	java:S106^"9Replace this use of System.out or System.err by a logger.(œÁ”=8¼ˆÌ¤©.
+‚
+java:S1130"eRemove the declaration of thrown exception 'java.awt.HeadlessException' which is a runtime exception.(ÅÀ¤ž8¼ˆÌ¤©.
+L
+java:S2093h"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Æ¿ßÂ©.
+“
+java:S1130J"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78û»ÉÃ©.
+Z	java:S106m"9Replace this use of System.out or System.err by a logger.(¤øß‘þÿÿÿÿ8Æ¿ßÂ©.
+b
+java:S2259s"@A "NullPointerException" could be thrown; "we" is nullable here.(Ìšú¢ûÿÿÿÿ8ÖÜáÂ©.
+U	java:S106_"9Replace this use of System.out or System.err by a logger.(»Ãëº8¼ˆÌ¤©.
+U	java:S106k"9Replace this use of System.out or System.err by a logger.(ÅŠõ™8Æ¿ßÂ©.
+Z	java:S106p"9Replace this use of System.out or System.err by a logger.(øü‰èùÿÿÿÿ8Æ¿ßÂ©.
+]	java:S125a"<This block of commented-out lines of code should be removed.(¥È—“ùÿÿÿÿ8‘®Å©.
+]	java:S125Y"<This block of commented-out lines of code should be removed.(€ñÞúþÿÿÿÿ8ÖŽ›Ã©.
+K
+java:S1948")Make "gniazdo" transient or serializable.(¨ßÖÚûÿÿÿÿ8–ÝÓÁ©.
+\
+java:S1128	":Remove this unused import 'java.net.UnknownHostException'.(Ú·¬˜úÿÿÿÿ8¼ˆÌ¤©.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¼ˆÌ¤©.
+U	java:S106["9Replace this use of System.out or System.err by a logger.(–ðîÝ8¼ˆÌ¤©.
+E
+java:S1148Q"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8×Ò¯Å©.

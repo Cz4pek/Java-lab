@@ -1,0 +1,48 @@
+
+[	java:S106Å"9Replace this use of System.out or System.err by a logger.(îöÁÑøÿÿÿÿ8áÇ£¨.
+V	java:S106“"9Replace this use of System.out or System.err by a logger.(†¯–í8áÇ£¨.
+t
+java:S3776*"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(¾…·Ãÿÿÿÿÿ8áÇ£¨.
+o
+java:S1104"RMake driver a static final constant or non-public and provide accessors if needed.(–‰…8áÇ£¨.
+[	java:S106÷"9Replace this use of System.out or System.err by a logger.(‹£Áıÿÿÿÿ8áÇ£¨.
+Y	java:S125ë"<This block of commented-out lines of code should be removed.(¹¥úÁ8áÇ£¨.
+Y	java:S125Ç"<This block of commented-out lines of code should be removed.(Ó˜½…8áÇ£¨.
+e
+java:S2095V"HUse try-with-resources or close this "Connection" in a "finally" clause.(ºŸ»8áÇ£¨.
+V	java:S106¶"9Replace this use of System.out or System.err by a logger.(ÖÍ¡õ8áÇ£¨.
+[	java:S106ò"9Replace this use of System.out or System.err by a logger.(ÍóÊşÿÿÿÿ8áÇ£¨.
+[	java:S106Ê"9Replace this use of System.out or System.err by a logger.(Œÿ×şÿÿÿÿ8áÇ£¨.
+[	java:S106Ô"9Replace this use of System.out or System.err by a logger.(¥´¼ÿÿÿÿÿ8áÇ£¨.
+[	java:S106Î"9Replace this use of System.out or System.err by a logger.(à¾Äøùÿÿÿÿ8áÇ£¨.
+[	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(öÊ”Ãÿÿÿÿÿ8áÇ£¨.
+c
+java:S2147ƒ"ECombine this catch with the one at line 257, which has the same body.(¨¦Š½8áÇ£¨.
+[	java:S106Ã"9Replace this use of System.out or System.err by a logger.(ûçÅûÿÿÿÿ8áÇ£¨.
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(âŒöÅùÿÿÿÿ8áÇ£¨.
+[	java:S106µ"9Replace this use of System.out or System.err by a logger.(ÛÏíúÿÿÿÿ8áÇ£¨.
+c
+java:S2147"ECombine this catch with the one at line 257, which has the same body.(ÿŞÅ8áÇ£¨.
+X
+java:S1141å"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ8áÇ£¨.
+J
+java:S1905",Remove this unnecessary cast to "Statement".(§¶ñ¼8áÇ£¨.
+^	java:S125¤"<This block of commented-out lines of code should be removed.(ó¨àĞıÿÿÿÿ8áÇ£¨.
+v
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÊéÏ¿8áÇ£¨.
+G
+java:S2115è")Add password protection to this database.(ø„ëÕ8áÇ£¨.
+V	java:S106Ä"9Replace this use of System.out or System.err by a logger.(²‚Ôò8áÇ£¨.
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÜÁ°-8âÏ¡£¨.
+[	java:S106„"9Replace this use of System.out or System.err by a logger.(Äÿººûÿÿÿÿ8áÇ£¨.
+V	java:S106˜"9Replace this use of System.out or System.err by a logger.(ÙÄîë8áÇ£¨.
+c
+java:S2147…"ECombine this catch with the one at line 257, which has the same body.(ã€ 8áÇ£¨.
+T	java:S106p"9Replace this use of System.out or System.err by a logger.(Î¢ãM8áÇ£¨.
+h
+java:S2147‡"ECombine this catch with the one at line 257, which has the same body.(ª¤Ùºûÿÿÿÿ8áÇ£¨.
+h
+java:S2147‰"ECombine this catch with the one at line 257, which has the same body.(óÇÃËıÿÿÿÿ8áÇ£¨.
+h
+java:S2147‹"ECombine this catch with the one at line 257, which has the same body.(«ÇÕúÿÿÿÿ8áÇ£¨.
+V	java:S106Â"9Replace this use of System.out or System.err by a logger.(Ô‘’õ8áÇ£¨.
